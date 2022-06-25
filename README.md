@@ -1,8 +1,10 @@
-# masterclass_animations
+# animations
 
-A new Flutter project.
+Animations Flutter samples.
 
 ## Getting Started
+
+Run flutter create . to create all needs directories
 
 This project is a starting point for a Flutter application.
 
